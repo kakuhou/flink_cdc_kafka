@@ -1,0 +1,2 @@
+# flink_cdc_kafka
+通过flinkCdc同步数据到kafka
